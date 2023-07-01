@@ -2,7 +2,7 @@
 
 ## data preparation
 
-run the first piece of code in the RCNN.ipynb
+run the first piece of code in the deeplearning/RCNN.ipynb
 
 ## traditional methods
 
