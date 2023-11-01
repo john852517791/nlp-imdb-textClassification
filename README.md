@@ -2,7 +2,7 @@
 
 ## data preparation
 
-run the first piece of code in the deeplearning/RCNN.ipynb
+run the first piece of code in the [deeplearning/RCNN.ipynb](https://github.com/john852517791/nlp-imdb-textClassification/blob/main/deeplearning/RCNN.ipynb)
 
 ## traditional methods
 
